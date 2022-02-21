@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'catalog.apps.CatalogConfig',
     'config.apps.ConfigConfig',
+    'kit_generator.apps.KitGeneratorConfig',
 ]
 
 MIDDLEWARE = [
